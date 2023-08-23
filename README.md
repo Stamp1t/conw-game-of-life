@@ -55,6 +55,7 @@ In order to
 - start the game, press "start"
 - pause the development of the cells, press "pause"
 - clear the screen and restart the game, press "clear"
+The amount of passed generations will be displayed in the top right corner after the game has started
   
 ![pic5](https://github.com/Stamp1t/conw-game-of-life/assets/132808663/137af7ef-1ac7-4b5d-a9be-96a618a68ba4)
 
